@@ -14,3 +14,5 @@ Day 12 - Reverse Array, Linear Search, Count Even Numbers.
 Day 13 - Largest Index, Second Largest, Average.
 
 Day 14 - Count Vowels, Reverse String, Palindrome Check.
+
+Day 15 - Count Words, Count Characters, Largest Word.
