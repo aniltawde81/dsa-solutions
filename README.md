@@ -20,3 +20,5 @@ Day 15 - Count Words, Count Characters, Largest Word.
 Day 16 - Factorial, Prime Number Check, Fibonacci Series.
 
 Day 17 - Armstrong Number, Palindrome Number, Sum of Digits.
+
+Day 18 - Leap Year, GCD, LCM.
