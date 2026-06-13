@@ -26,3 +26,5 @@ Day 18 - Leap Year, GCD, LCM.
 Day 19 - Star Pattern, Right Triangle Pattern, Pyramid Pattern.
 
 Day 20 - Inverted Triangle, Number Triangle, Floyd's Triangle.
+
+Day 21 - Linear Search, Binary Search, Find Element Position.
