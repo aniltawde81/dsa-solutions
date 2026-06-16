@@ -32,3 +32,5 @@ Day 21 - Linear Search, Binary Search, Find Element Position.
 Day 22 - Sort Array, Bubble Sort, Selection Sort.
 
 Day 23 - Insertion Sort, Descending Sort, Check Sorted Array.
+
+Day 24 - Create Node, Traverse Linked List, Count Nodes.
