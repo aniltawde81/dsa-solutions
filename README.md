@@ -38,3 +38,5 @@ Day 24 - Create Node, Traverse Linked List, Count Nodes.
 Day 25 - Insert Node, Search Node, Delete Node.
 
 Day 26 - Queue Using List, Enqueue, Dequeue.
+
+Day 27 - Stack Using List, Push Operation, Pop Operation.
