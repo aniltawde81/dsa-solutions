@@ -48,3 +48,5 @@ Day 29 - Factorial Recursion, Sum Recursion, Fibonacci Recursion.
 Day 30 - Reverse String, Power of Number, Tower of Hanoi.
 
 Day 31 - Create Node, Create Binary Tree, Inorder Traversal.
+
+Day 32 - Preorder Traversal, Postorder Traversal, Count Nodes in Tree.
