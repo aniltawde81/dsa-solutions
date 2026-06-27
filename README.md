@@ -50,3 +50,5 @@ Day 30 - Reverse String, Power of Number, Tower of Hanoi.
 Day 31 - Create Node, Create Binary Tree, Inorder Traversal.
 
 Day 32 - Preorder Traversal, Postorder Traversal, Count Nodes in Tree.
+
+Day 33 - BST Insert Node, Search Node, Find Minimum.
