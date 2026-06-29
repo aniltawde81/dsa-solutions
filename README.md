@@ -54,3 +54,5 @@ Day 32 - Preorder Traversal, Postorder Traversal, Count Nodes in Tree.
 Day 33 - BST Insert Node, Search Node, Find Minimum.
 
 Day 34 - Create Graph, DFS, BFS.
+
+Day 35 - Frequency Count, First Non-Repeating Character, Two Sum.
