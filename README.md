@@ -56,3 +56,5 @@ Day 33 - BST Insert Node, Search Node, Find Minimum.
 Day 34 - Create Graph, DFS, BFS.
 
 Day 35 - Frequency Count, First Non-Repeating Character, Two Sum.
+
+Day 36 - LeetCode 1920, 1480, 1672.
