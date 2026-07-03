@@ -62,3 +62,5 @@ Day 36 - LeetCode 1920, 1480, 1672.
 Day 37 - LeetCode 412, 1929, 2011.
 
 Day 38 - LeetCode 1108, 1528, 1431.
+
+Day 39 - LeetCode 1512, 1365, 1470.
