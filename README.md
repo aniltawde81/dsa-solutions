@@ -64,3 +64,5 @@ Day 37 - LeetCode 412, 1929, 2011.
 Day 38 - LeetCode 1108, 1528, 1431.
 
 Day 39 - LeetCode 1512, 1365, 1470.
+
+Day 40 - LeetCode 1773, 771, 2114.
