@@ -72,3 +72,5 @@ Day 41 - LeetCode 344, 125, 58.
 Day 42 - LeetCode 26, 27, 66.
 
 Day 43 - LeetCode 9, 69, 231.
+
+Day 44 - LeetCode 242, 383, 389.
