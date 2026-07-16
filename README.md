@@ -88,3 +88,5 @@ Day 49 - LeetCode 1, 217, 219.
 Day 50 - LeetCode 49, 3, 238 (Medium Problems).
 
 Day 51 - LeetCode 643, 1456, 121 (Sliding Window).
+
+Day 52 - LeetCode 219 (Optimized), 209, 3 (Optimized).
