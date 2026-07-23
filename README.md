@@ -96,3 +96,5 @@ Day 53 - LeetCode 724, 1480 (Optimized), 1732.
 Day 54 - LeetCode 867, 1572, 566 (Matrix Problems).
 
 Day 55 - LeetCode 455, 860, 605 (Greedy Algorithm).
+
+Day 56 - LeetCode 70, 509, 746 (Dynamic Programming).
