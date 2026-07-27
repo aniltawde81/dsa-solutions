@@ -100,3 +100,5 @@ Day 55 - LeetCode 455, 860, 605 (Greedy Algorithm).
 Day 56 - LeetCode 70, 509, 746 (Dynamic Programming).
 
 Day 57 - LeetCode 198, 1137, 392 (Dynamic Programming).
+
+Day 58 - LeetCode 46, 78, 77 (Backtracking Basics).
