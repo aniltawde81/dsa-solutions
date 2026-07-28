@@ -102,3 +102,5 @@ Day 56 - LeetCode 70, 509, 746 (Dynamic Programming).
 Day 57 - LeetCode 198, 1137, 392 (Dynamic Programming).
 
 Day 58 - LeetCode 46, 78, 77 (Backtracking Basics).
+
+Day 59 - LeetCode 39, 22, 17 (Backtracking).
